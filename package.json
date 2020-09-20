@@ -11,6 +11,6 @@
     "test": "jest test.js"
   },
   "plugins": {
-    "@semantic-release/git"
+    "semantic-release/git"
   }
 }
